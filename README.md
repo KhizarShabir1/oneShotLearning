@@ -1,2 +1,2 @@
-# DeepLearning.....ONE SHOT LEARNING USING SIAMESE NETWORK.....
+# DeepLearning...One Shot Learning Using Siamese Network
 Paper implementation
